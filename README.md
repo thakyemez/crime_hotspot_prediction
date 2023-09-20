@@ -8,3 +8,5 @@ Datasets: This repository includes a folder titled Datasets that contains all cr
 Predictions: The folder also contains predictions across all the models (e.g., theft daily, robbery shift). These files have two columns: actual and predicted values, respectively. The structure is 2459 rows by test days. This means that the first 2459 rows represent predictions for each segment on the first day, the next 2459 rows represent predictions for the second day, and so on.
 
 We hope that researchers find this repository useful for their work.
+Since the datasets file is too big, we uplodaded the file to figshare. Below is the public link:
+https://figshare.com/s/c8dee85f5a25e0ab44b6
